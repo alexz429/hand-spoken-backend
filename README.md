@@ -27,3 +27,6 @@ Not only did we learn lots about OCR (Optical Character Recognition) and AWS Tra
 
 ## What's next for Hand Spoken
 Building upon on our idea and creating accessibility for all through the use of technology!
+
+
+Find the frontend [here](https://github.com/alexz429/hand-spoken-cs)
